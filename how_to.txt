@@ -1,0 +1,4 @@
+## To calculate blocking and NAO for all Europe...
+
+1. Get Z500 (geopotential height) for the region of interest 
+
